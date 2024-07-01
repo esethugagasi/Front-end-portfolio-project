@@ -12,10 +12,11 @@ h1,
 h2,
 h3 {
   margin: 0;
+  text-align: center;
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 70px;
 }
 
 h2 {
@@ -109,6 +110,6 @@ p {
   .project-link {
     display: block;
     text-align: center;
-    margin: 0 20px;
+    margin: 0 0px;
   }
 }
